@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/94151800/190027628-6f804c87-f8b6-4b80-9c65-ac8ea58ffe60.gif)
+https://ximhai.com/img/programando.gif
 
 
 <!--

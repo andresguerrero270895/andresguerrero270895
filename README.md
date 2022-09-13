@@ -3,9 +3,7 @@
 
 # **Hola, Soy [Andres Guerrero](https://www.linkedin.com/in/andres-guerrero-00862a217/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer.<br>
-Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
-Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
+Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer.Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)

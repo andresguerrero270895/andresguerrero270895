@@ -1,14 +1,11 @@
 ![portada](https://ximhai.com/img/programando.gif)
 
 
-# **Hola, Soy [Andres Guerrero](https://www.linkedin.com/in/emanuel-juri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola, Soy [Andres Guerrero](https://www.linkedin.com/in/andres-guerrero-00862a217/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Ingeniero electromecánico incursionando en el apasionante mundo de la programación como FullStack Developer.<br>
+Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer.<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
 Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
-<div align="center" >
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
-</div> 
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)

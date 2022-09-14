@@ -3,13 +3,13 @@
 
 # **Hola, Soy [Andres Guerrero](https://www.linkedin.com/in/andres-guerrero-00862a217/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer.Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
+Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer. Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación. Estoy interesado en el desarrollo web 🖥️ y moblie 📱, tanto desde el lado de Front-end como del Back-end.<br>
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 ## 📌 Mis Proyectos
-### Henry Bank :dollar: :credit_card: :chart:
+### Ecommerce :dollar: :credit_card: :chart:
 Henry Bank, es una billetera virtual en formato mobile (apk) desarrollada en React Native.
 Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
 En este gran proyecto me desempeñe como Frontend developer y líder técnico de finanzas, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
@@ -26,8 +26,8 @@ Aplicación compilada
 ![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
 
 
-### Henry Dogs :dog: :service_dog: :dog2:
-Single-page application enfocada en las razas de perros de todo el mundo.<br>
+### Henry Countries :countrie :colombia 🇦🇷 
+Single-page application enfocada en los paises de todo el mundo.<br>
 Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 

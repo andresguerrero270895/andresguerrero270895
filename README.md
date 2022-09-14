@@ -1,11 +1,13 @@
 ![portada](https://ximhai.com/img/programando.gif)
 
+## Hi there! 
+**I'm  [Andres Guerrero](https://www.linkedin.com/in/andres-guerrero-00862a217/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">Thank you for taking the time to view my GitHub Profile!
 
-# **Hola, Soy [Andres Guerrero](https://www.linkedin.com/in/andres-guerrero-00862a217/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+## About Me
+Mechatronic Engineer venturing into the exciting world of programming as a Full Stack Web Developer. I like great challenges and I undertake them with passion, commitment and determination.I am interested in web 🖥️  and moblie 📱 development, both from the Front-end and Back-end side.<br>
+<!-- Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer. Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación. Estoy interesado en el desarrollo web 🖥️ y moblie 📱, tanto desde el lado de Front-end como del Back-end.<br> -->
 
-Ingeniero Mecatronico incursionando en el apasionante mundo de la programación como Full Stack Web Developer. Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación. Estoy interesado en el desarrollo web 🖥️ y moblie 📱, tanto desde el lado de Front-end como del Back-end.<br>
-
-## Lenguajes y herramientas
+## Skills
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -19,21 +21,30 @@ Ingeniero Mecatronico incursionando en el apasionante mundo de la programación 
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 
 
-## 📌 Mis Proyectos
+## 📌 My projects
 ### Ecommerce
-Tres Jotas - Eccomerce, es una plataforma virtual para compra y venta de celulares desarrollada con Node.js y React. Nace como proyecto 
+Tres Jotas - Eccomerce, is a virtual platform for buying and selling cell phones, developed with Node.js and React. Born as a project 
+integrative group to put into practice all the skills acquired in the Henry bootcamp.  It should be noted that the entire team worked 
+through the SCRUM methodology with the following technologies: Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello <br>
+<!-- Tres Jotas - Eccomerce, es una plataforma virtual para compra y venta de celulares desarrollada con Node.js y React. Nace como proyecto 
 grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry. En este gran proyecto me desempeñe como 
 Frontend developer para la creacion del panel del administrador y estuve apoyando del lado del Backend con la creacion de la base datos, 
-algunos modelos y endpoints. Cabe destacar que con todo el equipo se trabajo mediante la meto- dología SCRUM con las siguientes tecnologías: 
-Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello <br>
+algunos modelos y endpoints . Cabe destacar que con todo el equipo se trabajo mediante la metodología SCRUM con las siguientes tecnologías: 
+Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello <br> -->
 
 <a href="https://tresjota-ecommerce.vercel.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
      Ecommerce Deploy
 </a>
 </br></br>
+<a href="https://github.com/andresguerrero270895/PI-Countries-">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
+</br></br>
 
-Maquetado y prototipado en FIGMA
+Frontend Images
+C:\Users\Home\OneDrive\Imágenes\Capturas de pantalla
 <!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
 <img src="https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png" width="50%" height="50%"  />
 
@@ -50,7 +61,7 @@ Desarrolle íntegramente esta aplicación tanto frontend como backend, con las s
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
 <a href="https://pi-countries-omega-seven.vercel.app/" fontSize="34">
-      <img align="center" src="![image](https://user-images.githubusercontent.com/94151800/190044021-e5737e3d-36a3-4c25-a012-2f60587015e8.svg)" width="30" height="30"/>
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       Henry Countries Deploy
 </a>
 </br></br>
@@ -59,14 +70,13 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
       Link a repo
 </a>
 </br>
-[![Alt text](https://img.youtube.com/vi/XWVv_4lWsCI/0.jpg)](https://www.youtube.com/watch?v=XWVv_4lWsCI)
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/76783198/184228274-40a58435-e797-48ba-b6cf-e52aa99d3329.png" width="333" height="205"  />
       <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="205"  />
       <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="205"  />
 </div>
 
-## 📫 Para contactarme 
+## 📫 Contact Me 
 
 <p>
     <a href="https://guerrero9510@hotmail.com">

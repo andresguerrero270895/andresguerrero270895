@@ -21,11 +21,7 @@ Ingeniero Mecatronico incursionando en el apasionante mundo de la programación 
 
 ## 📌 Mis Proyectos
 ### Ecommerce
-Tres Jotas - Eccomerce, es una plataforma virtual para compra y venta de celulares desarrollada con Node.js y React. Nace como proyecto grupal integrador 
-para poner en practica todas las habilidades adquiridas en el bootcamp Henry. En este gran proyecto me desempeñe como Frontend developer para la creacion 
-del panel del administrador y estuve apoyando del lado del Backend con la creacion de la base datos, algunos modelos y endpoints. Cabe destacar que con to-
-do el equipo se trabajo mediante la metodología SCRUM con las siguientes tecnologías: 
-Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello<br>
+<p style="text-align: justify;"> Tres Jotas - Eccomerce, es una plataforma virtual para compra y venta de celulares desarrollada con Node.js y React. Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry. En este gran proyecto me desempeñe como Frontend developer para la creacion del panel del administrador y estuve apoyando del lado del Backend con la creacion de la base datos, algunos modelos y endpoints. Cabe destacar que con todo el equipo se trabajo mediante la metodología SCRUM con las siguientes tecnologías: Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub |Trello</p>
 
 <a href="https://tresjota-ecommerce.vercel.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>

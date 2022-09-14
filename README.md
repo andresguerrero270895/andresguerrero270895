@@ -59,7 +59,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
       Link a repo
 </a>
 </br>
-https://youtu.be/XWVv_4lWsCI
+[![Alt text](https://img.youtube.com/vi/XWVv_4lWsCI/0.jpg)](https://www.youtube.com/watch?v=XWVv_4lWsCI)
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/76783198/184228274-40a58435-e797-48ba-b6cf-e52aa99d3329.png" width="333" height="205"  />
       <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="205"  />

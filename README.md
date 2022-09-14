@@ -46,12 +46,12 @@ Desarrolle íntegramente esta aplicación tanto frontend como backend, con las s
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
 <a href="https://pi-countries-omega-seven.vercel.app/" fontSize="34">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      <img align="center" src="![image](https://user-images.githubusercontent.com/94151800/190043855-c7b83184-549d-4c05-9fc6-12c97830f6b6.png)" width="30" height="30"/>
       Henry Countries Deploy
 </a>
 </br></br>
 <a href="https://github.com/andresguerrero270895/PI-Countries-">
-      ![image](https://user-images.githubusercontent.com/94151800/190043300-86761c3b-8df5-48b2-84e6-04baa3594238.png
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
 </br>

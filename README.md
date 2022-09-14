@@ -26,7 +26,7 @@ Aplicación compilada
 ![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
 
 
-### Henry Countries :colombia :argentina 🇺🇸
+### Henry Countries :colombia :argentina 
 Single-page application enfocada en los paises de todo el mundo.<br>
 Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>

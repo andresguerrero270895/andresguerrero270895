@@ -43,22 +43,19 @@ Javascript | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Trello <br>
 </a>
 </br></br>
 
-Frontend Images
-C:\Users\Home\OneDrive\Imágenes\Capturas de pantalla
-<!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
-<img src="https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png" width="50%" height="50%"  />
-
-![figma](https://user-images.githubusercontent.com/76783198/182469139-32ef23d0-b7a2-4592-bd67-71571cdeae13.svg)
-
-Aplicación compilada
-
-![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
-
+### Frontend Images
+<div align="row" >
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/admin_dashboard.png?raw=true" width="33%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/admin_products.png?raw=true" width="33%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/login.png?raw=true" width="33%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Home_carrusel.png?raw=true" width="33%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Home.png?raw=true" width="33%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/carrito.png?raw=true" width="33%" height="50%"  />
+</div>
 
 ### Henry Countries 
-Single-page application enfocada en los paises de todo el mundo.<br>
-Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
-Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+Single-page application focused on countries around the world. Fully develop this application both frontend and backend, with the following technologies: Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+
 
 <a href="https://pi-countries-omega-seven.vercel.app/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
@@ -69,11 +66,13 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
-</br>
+</br></br>
 <div align="row" >
-      <img src="https://user-images.githubusercontent.com/76783198/184228274-40a58435-e797-48ba-b6cf-e52aa99d3329.png" width="333" height="205"  />
-      <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="205"  />
-      <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="205"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Landing.png?raw=true" width="49%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Inicio.png?raw=true" width="49%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Countrie_detail.png?raw=true" width="49%" height="50%"  />
+<img src="https://github.com/andresguerrero270895/andresguerrero270895/blob/main/Add_Activitie.png?raw=true" width="49%" height="50%"  />
+
 </div>
 
 ## 📫 Contact Me 

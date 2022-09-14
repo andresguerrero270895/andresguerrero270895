@@ -51,6 +51,8 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 </a>
 </br></br>
 <a href="https://github.com/andresguerrero270895/PI-Countries-">
+      ![image](https://user-images.githubusercontent.com/94151800/190043300-86761c3b-8df5-48b2-84e6-04baa3594238.png)
+
      
       <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWCXe2dvFh_PzoVcqjXVoVaCea-2W8dBG6Q&usqp=CAU" width="25" height="25"/>
       Link a repo

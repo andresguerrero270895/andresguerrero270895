@@ -7,6 +7,8 @@
 Mechatronic Engineer venturing into the exciting world of programming as a Full Stack Web Developer. I like great challenges and I undertake them with passion, commitment and determination. I am interested in web 🖥️ and mobile 📱 development, both from the Front-end and Back-end side.
 
 ## Skills
+
+<p align="left">
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
@@ -19,6 +21,7 @@ Mechatronic Engineer venturing into the exciting world of programming as a Full 
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
+</p>
 
 ---
 
